@@ -233,7 +233,6 @@ class App(tk.Tk):
             #print('Not a valid number')
             self.cost5.set('$0.00')
         
-
 #creates the persistance loop
 if __name__ == "__main__":
     app = App()
